@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Who am I?
-- A software engineer, with experiences in different domains:
+Wondering who am I?
+- I am a software engineer, with experiences in different domains:
   - Test automation for mobile applications.
   - Test automation for desktop applications.
   - Virtual Reality.
