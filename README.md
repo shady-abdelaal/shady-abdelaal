@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-<!--
-**shady-abdelaal/shady-abdelaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Who am I?
 - A software engineer, with experiences in different domains:
   - Test automation for mobile applications.
   - Test automation for desktop applications.
   - Virtual Reality.
-Here are some ideas to get you started:
+
+<!--
+**shady-abdelaal/shady-abdelaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 - 🔭 I’m a software engineer, 
 - 🌱 I’m currently learning ...
