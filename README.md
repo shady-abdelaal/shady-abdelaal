@@ -5,7 +5,12 @@ Wondering who am I?
   - Test automation for mobile applications.
   - Test automation for desktop applications.
   - Virtual Reality.
+  - Electronics design automation tools.
 
+- My interests:
+  - Machine learning and their applications in CAD tools.
+  - GUI Test automation.
+  - GUI Application development with QT.
 <!--
 **shady-abdelaal/shady-abdelaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
