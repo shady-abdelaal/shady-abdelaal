@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 Wondering who am I?
-- I am a software engineer, with experiences in different domains:
+- I am a software engineer at Delivery Hero, Berlin
+- With experiences in different domains:
   - Test automation for mobile applications.
   - Test automation for desktop applications.
-  - Virtual Reality.
-  - Electronics design automation tools.
+  - Virtual & Augmented Reality development.
+  - Electronics design automation (EDA) tools.
 
 - My interests:
   - Machine learning and their applications in CAD tools.
