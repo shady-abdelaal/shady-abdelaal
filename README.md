@@ -18,7 +18,7 @@ Wondering who am I?
 - 🌱 I’m currently learning:
   - iOS Development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shady-abdelaal)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **shady-abdelaal/shady-abdelaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,4 +33,6 @@ Wondering who am I?
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shady-abdelaal)](https://github.com/anuraghazra/github-readme-stats)
 -->
