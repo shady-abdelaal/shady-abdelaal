@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Wondering who am I?
-- I am a software engineer at Delivery Hero, Berlin
+- I am a Software Engineer at Delivery Hero, Berlin, Germany
+
 - With experiences in different domains:
   - Test automation for mobile applications.
   - Test automation for desktop applications.
@@ -10,8 +11,13 @@ Wondering who am I?
 
 - My interests:
   - Machine learning and their applications in CAD tools.
+  - iOS Test Automation & Frameworks
   - GUI Test automation.
   - GUI Application development with QT.
+
+- 🌱 I’m currently learning:
+  - iOS Development
+
 <!--
 **shady-abdelaal/shady-abdelaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
