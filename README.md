@@ -14,6 +14,7 @@ Wondering who am I?
   - iOS Test Automation & Frameworks
   - GUI Test automation.
   - GUI Application development with QT.
+  - Problem Solving, Data Strucutures and Algorithms
 
 - 🌱 I’m currently learning:
   - iOS Development
