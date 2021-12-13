@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Wondering who am I?
-- I am a Software Engineer at Delivery Hero, Berlin, Germany
+- I am a Software Engineer @ Apple, US
+- I previously worked as Software Engineer @ Delivery Hero, Berlin, Germany & Siemens EDA, Cairo, Egypt
 
 - With experiences in different domains:
   - Test automation for mobile applications.
@@ -18,6 +19,8 @@ Wondering who am I?
 
 - 🌱 I’m currently learning:
   - iOS Development
+  - Computer vision
+  - Bayesian Optimization
 
 
 
